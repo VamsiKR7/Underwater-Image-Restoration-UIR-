@@ -22,4 +22,4 @@ The model was trained and validated on the UIEBD (Underwater Image Enhancement B
 |USUIR(Base)|20.449|0.839|  225.5K  |
 |Our Model  |20.177|0.844|   30.3K  |
 
-For more information, access the [paper link](https://drive.google.com/file/d/1y_urSudGHQekxacvUEx_T6UNqxoHbEHL/view?usp=sharing).
+For more information, access the [paper link](https://drive.google.com/file/d/1y_urSudGHQekxacvUEx_T6UNqxoHbEHL/view?usp=sharing) and also access the [dataset](https://drive.google.com/drive/folders/1q7iemDfa0QV_f_F_dpDHf2NP3daumkBV?usp=sharing) and ideally should be added in the project directory "./Dataset/UIE/UIEBD/"
