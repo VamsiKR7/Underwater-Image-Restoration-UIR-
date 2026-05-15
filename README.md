@@ -16,9 +16,8 @@ Optimization Techniques
 * Depthwise Separable Convolutions: Factorizes spatial and channel processing to drastically reduce computational cost while preserving local textures.
 ## 📊 Results
 The model was trained and validated on the UIEBD (Underwater Image Enhancement Benchmark Dataset).  
-|-----------|------|-----|----------|
+
 |   Method  | PSNR |SSIM |Parameters|
 |-----------|------|-----|----------|
 |USUIR(Base)|20.449|0.839|  225.5K  |
 |Our Model  |20.177|0.844|   30.3K  |
-|-----------|------|-----|----------|
