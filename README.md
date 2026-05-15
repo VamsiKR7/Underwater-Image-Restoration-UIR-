@@ -1,5 +1,4 @@
-# Underwater-Image-Restoration-UIR-
-## Underwater Image Restoration via SE-Blocks and Depthwise Separable Convolutions
+# Underwater Image Restoration via SE-Blocks and Depthwise Separable Convolutions
 
 ## 📌 Project Overview
 This repository contains the implementation of an unsupervised deep learning model designed to restore underwater images degraded by light absorption and scattering. By integrating Squeeze-and-Excitation (SE) Blocks and Depthwise Separable Convolutions (DSConv), we achieved a high-performance restoration model that is significantly more efficient than standard architectures.  
